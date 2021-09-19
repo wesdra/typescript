@@ -1,5 +1,8 @@
-export default class User {
+class User {
     nome:string;
 
     email:string;
 }
+
+export default User;
+
